@@ -57,6 +57,7 @@ const App = () => {
 
   return (
     <div className="container">
+      <h1>EVM Messenger Dapp 🚀</h1>
       <button onClick={getMessage}>Message</button>
       <button onClick={setMessage}>Send message</button>
 

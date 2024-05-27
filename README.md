@@ -1,3 +1,3 @@
 # Full Stack Ethereum and Dapp Development. A comprehensive guide: 2024
 
-Click here to read the tutorial
+Checkout the tutorial on [Dev.to](https://dev.to/azeezabidoye/full-stack-ethereum-and-dapp-development-a-comprehensive-guide-2024-4jfd)
